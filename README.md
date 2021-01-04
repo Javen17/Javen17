@@ -1,5 +1,15 @@
 ### Hi there I'm Javier Oviedo 👋
 
+[![LinkedIn: Javier Oviedo](https://img.shields.io/badge/JavierOviedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-oviedo-brenes-3b42961b4/)](https://www.linkedin.com/in/javier-oviedo-brenes-3b42961b4/)
+
+I'm a developer and software engineering student from Nicaragua. I love coding and how we can create anything with the power of analysis and structured thoughts.
+I have been coding since I'm 16 and professionally since 2019. From newspapers to casinos I love converting problems into solutions.
+
+🔭 I’m currently working for FoxHorn Solutions
+🌱 I’m currently learning C# and architecture patterns for enterprise solutions
+👯 I’m looking to collaborate on anything cool
+💬 Ask me about life 
+
 <!--
 **Javen17/Javen17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,10 +32,3 @@ Here are some ideas to get you started:
 <img align="left" alt="NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
 <br/>
-
-### Connect with me:
-
-[<img align="left" alt="Javen17 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
-[linkedin]: https://www.linkedin.com/in/javier-oviedo-brenes-3b42961b4/
