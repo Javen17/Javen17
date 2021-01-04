@@ -24,12 +24,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<br />
-<br />
-
---- 
-
-
 ### Connect with me:
 
 [<img align="left" alt="Javen17 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
