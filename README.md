@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 <img align="left" alt="C#"  width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img align="left" alt="NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
+<a href="https://iconscout.com/icons/javascript" target="_blank">Javascript Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
 <br/>
