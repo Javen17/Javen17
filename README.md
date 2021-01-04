@@ -5,10 +5,10 @@
 I'm a developer and software engineering student from Nicaragua. I love coding and how we can create anything with the power of analysis and structured thoughts.
 I have been coding since I'm 16 and professionally since 2019. From newspapers to casinos I love converting problems into solutions.
 
-🔭 I’m currently working for FoxHorn Solutions
-🌱 I’m currently learning C# and architecture patterns for enterprise solutions
-👯 I’m looking to collaborate on anything cool
-💬 Ask me about life 
+🔭 I’m currently working for FoxHorn Solutions <br/>
+🌱 I’m currently learning C# and architecture patterns for enterprise solutions <br/>
+👯 I’m looking to collaborate on anything cool <br/>
+💬 Ask me about life <br/>
 
 <!--
 **Javen17/Javen17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
