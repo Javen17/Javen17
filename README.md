@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="C#" width="26px" src="https://img2.freepng.es/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg" />
+<img align="left" alt="C#" width="26px" src="https://blogs.brainsmiths.com/image.axd?picture=/blog%20pics/c_logo_black.png" />
 <img align="left" alt="NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://www.pinclipart.com/picdir/middle/269-2691398_python-logo-clipart-transparent-background-png-download.png" />
 <img align="left" alt="Django" width="26px" src="https://img2.freepng.es/20180805/hho/kisspng-django-python-computer-icons-logo-portable-network-django-python-recruitment-task-1-5b6748f3586dc6.0530431515334955393622.jpg" />
