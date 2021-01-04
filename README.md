@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [<img align="left" alt="Javen17 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-[linkedin]: https://www.linkedin.com/in/luis-cardoza-bird-82a1aa95/
+[linkedin]: https://www.linkedin.com/in/javier-oviedo-brenes-3b42961b4/
