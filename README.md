@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Javier Oviedo 👋
 
 <!--
 **Javen17/Javen17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+[<img align="left" alt="Javen17 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+[linkedin]: https://www.linkedin.com/in/luis-cardoza-bird-82a1aa95/
