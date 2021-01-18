@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <img  align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" alt="Django" width="26px" src="https://png2.cleanpng.com/sh/2703bc253ac00b7e954071f24cb1cf89/L0KzQYm3WMA2N5hmepH0aYP2gLBuTfRraZ9sh595eYTrf7A0gB9ueKZ5feQ2aXPyfsS0jP9od151hAR9YXLvdX71hgR4d6NwRdZzYX7qf373mgRpd58yitdscoXshL7sjwQufJJ4g586LUXlRoi7WPY0QGdrTKoBLkm0SYK4VcU4OWY4S6YENUW2SYa8UsgveJ9s/kisspng-django-python-computer-icons-logo-portable-network-django-python-recruitment-task-1-5b6748f386f486.9191155715334955395528.png"/>
+<img align="left" alt="Django" width="26px" src="https://static.djangoproject.com/img/logo-django.42234b631760.svg"/>
 <img align="left" alt="C#"  width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img align="left" alt="NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
